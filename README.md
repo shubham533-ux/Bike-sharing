@@ -4,6 +4,7 @@ Google Analytics Capstone Project using Cyclistic (Divvy) bike data
 This Case Study was completed as part of the Google Data Analytics Professional Certificate.
 
   1. Objective (Ask Phase)
+
 To analyse how annual members and casual riders use Cyclistic bikes differently in order to determine the best marketing strategy to convert casual riders into annual members.
 
   2. Prepare Phase
